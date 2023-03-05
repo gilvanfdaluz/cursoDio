@@ -1,6 +1,6 @@
 const vitor = {
   nome: 'Vitor',
-  idade: 25,
+  idade: 26,
   altura: 1.69,
 };
 
