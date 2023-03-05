@@ -10,6 +10,6 @@ console.log(vitor.idade);
 console.log(vitor)
 */
 
-vitor.altura = 1.60
+vitor.altura = 1.65
 delete vitor.nome
 console.log(vitor);
