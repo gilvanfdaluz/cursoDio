@@ -1,7 +1,7 @@
 const vitor = {
   nome: 'Vitor',
   idade: 26,
-  altura: 1.69,
+  // altura: 1.69,
 };
 
 /*
@@ -10,6 +10,6 @@ console.log(vitor.idade);
 console.log(vitor)
 */
 
-vitor.altura = 1.69
+vitor.altura = 1.60
 delete vitor.nome
 console.log(vitor);
